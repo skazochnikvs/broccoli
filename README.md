@@ -2,7 +2,6 @@
 
 ### 1) Set env vars
 - ORACLE_USER=...
-- ORACLE_PASSWORD=...
 
 
 
