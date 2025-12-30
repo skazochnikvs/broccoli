@@ -7,5 +7,3 @@
 
 ### 2) Install
 pip install -r requirements.txt
-
-### 3) Ru
