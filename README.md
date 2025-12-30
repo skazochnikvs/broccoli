@@ -16,7 +16,6 @@ Open:
 http://127.0.0.1:8000/docs
 
 Endpoints:
-1) GET /view/dept-goods-sales
 
 
 
