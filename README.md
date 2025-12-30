@@ -5,11 +5,4 @@
 - ORACLE_PASSWORD=...
 - ORACLE_DSN=...
 
-### 2) Install
-pip install -r requirements.txt
-
-
-
-
-
 
