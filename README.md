@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ### 3) Run
 uvicorn app:app --reload
 
-### 4) Demo (Swagger)
-Open:
+
+
 
 
