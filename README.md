@@ -13,7 +13,7 @@ uvicorn app:app --reload
 
 ### 4) Demo (Swagger)
 Open:
-http://127.0.0.1:8000/docs
+
 
 
 
