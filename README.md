@@ -14,6 +14,3 @@ uvicorn app:app --reload
 ### 4) Demo (Swagger)
 Open:
 
-
-
-
