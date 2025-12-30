@@ -8,4 +8,4 @@
 ### 2) Install
 pip install -r requirements.txt
 
-### 3) Run
+### 3) Ru
