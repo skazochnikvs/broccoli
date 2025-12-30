@@ -19,4 +19,4 @@ Endpoints:
 1) GET /view/dept-goods-sales
 2) POST /proc/update-dept-info
 3) GET /func/goods-by-date?d=2024-12-01
-4) POST /test/exception
+
